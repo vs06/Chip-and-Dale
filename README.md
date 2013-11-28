@@ -10,3 +10,4 @@ SquirrelMail 1.4.20 Dictionary Attack for Pentest purposes
                 usuario  - login alvo                                                  
                 [proxy]  - <opcional> caso esteja atras de um proxy                    
 
+May The Force be with You.

@@ -10,6 +10,8 @@ SquirrelMail 1.4.20 Dictionary Attack for Pentest purposes
                 usuario  - login alvo                                                  
                 [proxy]  - <opcional> caso esteja atras de um proxy 
                 
+                   SquirrelMail 1.4.20 Dictionary Attack for Pentest purposes
+                
        Input:   wordlist - list of (pass)words 
                 url      - target url
                 user     - target user

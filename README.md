@@ -8,6 +8,11 @@ SquirrelMail 1.4.20 Dictionary Attack for Pentest purposes
        Entrada: wordlist - lista de possiveis senhas                                   
                 url      - url alvo                                                    
                 usuario  - login alvo                                                  
-                [proxy]  - <opcional> caso esteja atras de um proxy                    
+                [proxy]  - <opcional> caso esteja atras de um proxy 
+                
+       Input:   wordlist - list of (pass)words 
+                url      - target url
+                user     - target user
+                [proxy]  - <optional> if You are behind a proxy
 
-May The Force be with You.
+May The Source be with You.
